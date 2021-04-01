@@ -1,4 +1,5 @@
 # Practice with git and GitHub
+I'm Jingxuan Zhang and I edited this file!
 
 \[Your Step 3 Edit Here\]
 
